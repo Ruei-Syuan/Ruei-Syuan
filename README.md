@@ -1,2 +1,1 @@
-- 👋 Hi
-- 🌱 I’m currently learning digital image process and AR. ✨ 
+- 👋 
